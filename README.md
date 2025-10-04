@@ -31,11 +31,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 <h4>Intake</h4>
-<ul>
-  <li>End users created tickets for various issues.</li>
-  <li>Mobile/online banking system is down.</li>
-  <li>Accounting department needs Adobe upgrade.</li>
-  <li>CFO's laptop will not power on.</li>
+
+  End users created tickets for the following issues:
+  <ul>
+    <li>Mobile/online banking system is down.</li>
+    <li>Accounting department needs Adobe upgrade.</li>
+    <li>CFO's laptop will not power on.</li>
 </ul>
 
 <p><i>Why?:</i> Proper ticket intake ensures issues are documented in a structured system, preventing problems from being lost in informal requests.</p>
